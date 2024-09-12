@@ -1,0 +1,9 @@
+---
+title: "Contact"
+---
+
+About this site
+You can email me at zcloris.cai@mail.utoronto.ca
+```{r}
+1 + 1
+```
